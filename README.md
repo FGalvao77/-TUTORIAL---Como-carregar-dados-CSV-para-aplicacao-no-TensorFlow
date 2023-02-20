@@ -1,1 +1,2 @@
-# -TUTORIAL---Como-carregar-dados-CSV-para-aplicacao-no-TensorFlow
+## [TUTORIAL] - Como carregar dados `CSV` para aplicação no _TensorFlow_
+---
